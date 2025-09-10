@@ -1,0 +1,26 @@
+ /* table{
+    color: rgb(169, 227, 21);
+    background-color: #fb92f9; 
+    font-size: 2rem;
+    font-weight: 800;
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: lab(lightness a b alpha);
+    
+}   */
+
+ * {
+     color: brown;
+ }
+
+ span {
+     color: blue;
+ }
+
+ .kuchbhi {
+     color: rgb(204, 23, 162);
+ }
+
+ #kuchbhi {   
+     color: rgb(6, 55, 21);
+ }
