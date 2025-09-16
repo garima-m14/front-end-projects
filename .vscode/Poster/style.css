@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+}
+.box{
+    color: white;
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 100px;
+}
+h1{
+    text-transform: uppercase;
+}
+.poster{
+    border: 5px solid white;
+    width: 30%;
+}

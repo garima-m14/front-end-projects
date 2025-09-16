@@ -1,15 +1,15 @@
- /* table{
-    color: rgb(169, 227, 21);
-    background-color: #fb92f9; 
+ table{
+    color: rgb(27, 23, 24);
+    background-color: #e4e6c0; 
     font-size: 2rem;
     font-weight: 800;
     text-align: left;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     text-decoration: lab(lightness a b alpha);
-    
-}   */
+    border-color: rgb(25, 22, 19);
+}  
 
- * {
+ /* * {
      color: brown;
  }
 
@@ -23,4 +23,4 @@
 
  #kuchbhi {   
      color: rgb(6, 55, 21);
- }
+ } */
